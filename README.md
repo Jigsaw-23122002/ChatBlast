@@ -3,8 +3,9 @@
 A chat+bot with amazing features!
 
 #### Team Name : **Technobots**
-
-![image](https://user-images.githubusercontent.com/84740927/146228682-b95883c8-75e4-42aa-a453-1d495d9f161b.png)
+<!-- 
+![image](https://user-images.githubusercontent.com/84740927/146228682-b95883c8-75e4-42aa-a453-1d495d9f161b.png) -->
+![Screenshot (790)](https://user-images.githubusercontent.com/90565934/170444278-a8197267-f82a-45ed-a5e2-ac9f7c406c0f.png)
 
 
 ## 👩‍💻 Team members
@@ -17,7 +18,7 @@ A chat+bot with amazing features!
 
 ## 📝 Description
 
-### SOCIABLAST!
+### CHATBLAST!
 Making an application with chat + bot considering the following features COMMANDS:-
 (Implemented sucessfully)
 
