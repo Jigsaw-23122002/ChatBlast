@@ -1,4 +1,4 @@
-# **SOCIABLAST**
+# **CHATBLAST**
 
 A chat+bot with amazing features!
 
