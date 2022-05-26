@@ -3,7 +3,8 @@
 A chat+bot with amazing features!
 
 #### Team Name : **Technobots**
-![image](https://user-images.githubusercontent.com/84740927/146228682-b95883c8-75e4-42aa-a453-1d495d9f161b.png)
+![Screenshot (791)](https://user-images.githubusercontent.com/90565934/170454883-ab5964a6-7e78-4685-8660-9051664dd131.png)
+
 
 
 ## 👩‍💻 Team members
