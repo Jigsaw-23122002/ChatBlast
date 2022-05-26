@@ -27,8 +27,8 @@ const Home = () => {
 
                         <li>Neel Shah  </li>
                         <li>Harsh Nag</li>
-                        <li>Smit Sekhadia </li>
                         <li>Dhruv Kunjadiya</li>
+                        <li>Vaibhav Patel </li>
                     </div>
                 </ol>
             </p>
