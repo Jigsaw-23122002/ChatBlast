@@ -3,8 +3,8 @@
 A chat+bot with amazing features!
 
 #### Team Name : **Technobots**
+![Screenshot (791)](https://user-images.githubusercontent.com/90565934/170454883-ab5964a6-7e78-4685-8660-9051664dd131.png)
 
-![image](https://user-images.githubusercontent.com/84740927/146228682-b95883c8-75e4-42aa-a453-1d495d9f161b.png)
 
 
 ## 👩‍💻 Team members
@@ -12,13 +12,8 @@ A chat+bot with amazing features!
 - **Neel Shah 🦉** - neelshah29042002@gmail.com
 - **Harsh Nag 😎** - harshnag23@gmail.com
 - **Dhruv Kunjadiya 🦊** - dhruvkunjadiya55@gmail.com
-- **Smit Sekhadia 🦅** - smitsekhadia99@gmail.com
+- **Vaibhav Patel 🦅** - vaibhavpatel02892@gmail.com
 
-## 👨‍🏫 Mentors
-
-- **Ravi Maurya**
-- **Pankaj Khushlani**
-- **Azeez Dandawala**
 
 ## 📝 Description
 
@@ -45,7 +40,7 @@ Making an application with chat + bot considering the following features COMMAND
 
 ## 🔗 Links
 
-- GitHub repo link: [Link to repository](https://github.com/Neel-Shah-29/SOCIABLAST)
+- GitHub repo link: [Link to repository](https://github.com/Jigsaw-23122002/ChatBlast)
 
 ## 🤖 Technology Stack
 
@@ -59,7 +54,7 @@ Making an application with chat + bot considering the following features COMMAND
 
 1. Clone the repository
 ```
-git clone https://github.com/Neel-Shah-29/SOCIABLAST.git
+git clone https://github.com/Jigsaw-23122002/ChatBlast.git
 
 ```
 
