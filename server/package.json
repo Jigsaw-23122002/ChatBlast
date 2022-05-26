@@ -20,6 +20,7 @@
     "lyrics-finder": "^21.7.0",
     "mongoose": "^6.0.13",
     "node-schedule": "^2.1.0",
+    "nodemon": "^2.0.16",
     "socket.io": "^4.4.1",
     "solenolyrics": "^5.0.0",
     "wikipedia": "^1.1.6",
